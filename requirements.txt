@@ -1,0 +1,6 @@
+pyvmomi==8.0.2.0.1
+PyQt6>=6.10.0
+requests==2.31.0
+cryptography==41.0.7
+urllib3==2.1.0
+paramiko==3.4.0
