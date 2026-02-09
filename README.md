@@ -58,7 +58,8 @@ Eine eigenständige macOS-Anwendung zur Sicherung und Wiederherstellung von VMwa
 
 ## 📸 Screenshots
 
-<img width="805" height="807" alt="Bildschirmfoto 2026-02-10 um 00 12 04" src="https://github.com/user-attachments/assets/8eb10949-eca9-4a66-968d-0134deca41d5" />
+<img width="787" height="795" alt="Bildschirmfoto 2026-02-10 um 00 12 57" src="https://github.com/user-attachments/assets/0e0274fb-319a-4988-8cd5-e7f9ab006353" />
+
 
 ## 🚀 Installation
 
